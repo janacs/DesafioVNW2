@@ -8,4 +8,3 @@ Segundo desafio Vai na Web, criar uma mini wiki sobre nós usando HTML e estiliz
 4. Para fazer a entrega, usei o Git, subindo para um repositório no GitHub.
 
 # DesafioVNW2
-# DesafioVNW2

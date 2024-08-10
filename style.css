@@ -1,0 +1,38 @@
+* {
+  margin-top: 35px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: tomato;
+}
+
+h2 {
+  color: tomato;
+}
+
+img {
+  width: 300px;
+  border-radius: 30%;
+}
+
+p {
+  color: olivedrab;
+}
+
+section {
+  background-color: navajowhite;
+}
+
+a {
+  color: olivedrab;
+}
+
+footer {
+  background-color: gray;
+}
+
+body {
+  background-color: azure;
+}/*# sourceMappingURL=style.css.map */
